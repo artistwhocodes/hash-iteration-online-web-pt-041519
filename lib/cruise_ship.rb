@@ -14,6 +14,5 @@ winner = ""
       winner = name
     end
   end
+  winner
 end
-
-winner
